@@ -44,7 +44,7 @@ Source: https://stackoverflow.com/a/46345364 or https://i.sstatic.net/4wMJI.png
 ## Stackoverflow
 
 On `git diff`
- - https://stackoverflow.com/questions/462974/what-are-the-differences-between-double-dot-and-triple-dot-in-git-com
+ - https://stackoverflow.com/questions/7251477/what-are-the-differences-between-double-dot-and-triple-dot-in-git-dif
 
 On `git log`
  - https://stackoverflow.com/questions/462974/what-are-the-differences-between-double-dot-and-triple-dot-in-git-com
