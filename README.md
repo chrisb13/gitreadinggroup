@@ -40,11 +40,11 @@ We have a file at commit [A](https://github.com/chrisb13/double-triple-dot-git/c
 ```markdown
 # double-triple-dot-git
 
-This line will be used for commit B: I am adding some text for commit B
+This line will be used for commit B: 
 
-This line will be used for commit C: I am adding some text for commit C
+This line will be used for commit C: 
 
-This line will be used for commit D: I am adding some text for commit D
+This line will be used for commit D: 
 ```
 
 We will have 6 additional commits. Across the following branches:
