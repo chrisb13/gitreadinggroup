@@ -65,7 +65,7 @@ A commit with just a letter adds to the related line whereas a commit with a pri
  - [C](https://github.com/chrisb13/double-triple-dot-git/commit/232caf4634fbf9aecc780b54abe5d2e8894d6d7d);
  - [D](https://github.com/chrisb13/double-triple-dot-git/commit/c41c8efb6e5133bf24f9afece6b9a235f20963c6);
  - [B'](https://github.com/chrisb13/double-triple-dot-git/commit/dd9c11e01f9a8d73589f566c04656d56ed0bc631);
- - [C'](https://github.com/chrisb13/double-triple-dot-git/commit/dd9c11e01f9a8d73589f566c04656d56ed0bc631);
+ - [C'](https://github.com/chrisb13/double-triple-dot-git/commit/5dd090627627379ba22fbb20c255a075a5c9cd47);
  - [D'](https://github.com/chrisb13/double-triple-dot-git/commit/d3a03776f6d2288dd9f910eb7e163437f81276a7).
 
 Here is our full repo history:
